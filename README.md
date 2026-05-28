@@ -113,3 +113,7 @@ npm run preview  # preview production build
 - Client-side only. Practical CSV limit is ~50K rows.
 - No data persistence — refreshing clears everything (intentional).
 - No validation that in-sample and out-of-sample files are actually different datasets.
+
+## License
+
+[MIT](LICENSE)
