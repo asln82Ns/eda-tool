@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx eslint:*)",
+      "Bash(npx vite:*)",
+      "Bash(npm run *)",
+      "Bash(node *)",
+      "Bash(npm install *)",
+      "Bash(npm ls *)"
+    ]
+  }
+}
